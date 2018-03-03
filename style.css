@@ -4,6 +4,8 @@ body{
   color: black;
   font-size: 20px;
   font-family: Helvetica;
+  align-content: center;
+  text-align: center;
 }
 
 #banner{
@@ -28,13 +30,13 @@ h1{
   font-family: Helvetica;
   color: black;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 36px
 }
 h2 {
   font-family: Helvetica;
   color: black;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 20px
 }
 a {
   color: black;
@@ -53,5 +55,4 @@ a:hover {
 }
 #footer a:hover {
   color: lightgrey;
-}
 }
