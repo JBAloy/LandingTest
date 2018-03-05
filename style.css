@@ -5,26 +5,8 @@ body{
   font-size: 20px;
   font-family: Helvetica;
   align-content: center;
-  text-align: center;
-}
-
-#banner{
-  text-align: center;
-  background-image: url("https://unsplash.it/1300/600?random");
-  background-size: cover;
-  padding: 150px;
-  color: white;
-  text-shadow: 1px 1px 5px black;
-}
-#banner h1 {
-  color: white;
-  font-size: 50px;
-}
-#banner p {
-  color: white;
-  opacity: 0.8;
-  font-size: 30px;
-  font-weight: lighter;
+  text-align: center
+  margin: 10;
 }
 
 h1{
@@ -32,29 +14,21 @@ h1{
   color: black;
   font-weight: lighter;
   font-size: 36px
-}
-h2 {
-  font-family: Helvetica;
-  color: black;
-  font-weight: lighter;
-  font-size: 20px
-}
-a {
-  color: black;
-  font-size: 30px;
-}
-a:hover {
-  text-decoration: none;
-  color: purple;
-}
+}  
+
 .card{
   padding: 50px;
+  align-content: center;
+  text-align: center;
   font-weight: lighter;
 }
-#footer a {
-  color: black;
-  font-size: 15px;
+
+#banner{
+  padding: 50px;
 }
-#footer a:hover {
-  color: lightgrey;
+
+#footer{
+  padding: 70px;
+  text-align: center;
 }
+
